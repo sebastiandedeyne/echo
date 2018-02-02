@@ -1,4 +1,3 @@
-import { EventFormatter } from './util';
 import { Channel, PresenceChannel } from './channel'
 import { PusherConnector, SocketIoConnector } from './connector';
 
